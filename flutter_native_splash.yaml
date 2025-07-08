@@ -1,0 +1,19 @@
+flutter_native_splash:
+  color: "#ffffff"  # white background
+  image: assets/logo.png  # center logo
+
+  # Branding at the bottom
+  branding: assets/meta_logo.png
+  branding_mode: bottom
+  branding_bottom_padding: 20
+
+  color_dark: "#ffffff"
+  image_dark: assets/logo.png
+  branding_dark: assets/meta_logo.png
+
+  android_12:
+    image: assets/logo.png
+    color: "#ffffff"
+    branding: assets/meta_logo.png
+    color_dark: "#ffffff"
+    branding_dark: assets/meta_logo.png
